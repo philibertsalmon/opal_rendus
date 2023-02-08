@@ -27,7 +27,7 @@ Ce dépôt git contient principalement les éléments :
     - [🐍 `room.py`](serveur/backend/room.py) : gère la classe `Room` qui contient l'emploi du temps de chaque salle et contrôle l'envoi des informations aux clients
     - [🐍 `scrap_oasis.py`](serveur/backend/scrap_oasis.py) : code support du scrapping d'Oasis
   - [📁 `installations_clients`](installations_clients) : exécutables nécessaires à l'installation des différents éléments (librairies, NodeRed pour le front-end, scripts pour les capteurs etc.) sur les RaspberryPi connectées aux écrans.
-  - [📁 `adruino_capteurs`](arduino_capteurs): code faisant tourner les capteurs, présent sur les cartes arduino.
+  - [📁 `arduino_capteurs`](arduino_capteurs): code faisant tourner les capteurs, présent sur les cartes arduino.
 
 
 ## Vocabulaire et règles de la disponibilité
