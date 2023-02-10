@@ -16,7 +16,7 @@ global school
 school = School()
 
 # Seulement la première salle/le premier client à se connecter gère le scrap de Oasis et envoie à tous les autres clients les infos, périodiquement, avec une période de rafraichissement de refresh_time minutes.
-refresh_time = 1 #min
+refresh_time = 15 #min
 first_client = True #pour identifier le premier client, celui qui gère les communications Oasis
 
 class RoomSocketHandler(WebSocketHandler):
