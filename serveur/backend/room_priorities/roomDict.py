@@ -20,7 +20,7 @@ rooms = {
      'L224':{'type':'moyen', 'personnes':48, 'aile':'L', 'numero':224, 'lettre':'', 'tabb':False, 'tabn':True, 'videop': True, 'tele': False},#
      'L226':{'type':'moyen', 'personnes':30, 'aile':'L', 'numero':226, 'lettre':'', 'tabb':True, 'tabn':False, 'videop': False, 'tele': True},#
      'L312':{'type':'moyen', 'personnes':30, 'aile':'L', 'numero':312, 'lettre':'', 'tabb':False, 'tabn':True, 'videop': True, 'tele': False},#
-     'L316':{'type':'moyen', 'personnes':32, 'aile':'L', 'numero':316, 'lettre':'', 'tabb':True, 'tabn':True, 'videop': True, 'tele': False},
+     'L316':{'type':'moyen', 'personnes':32, 'aile':'L', 'numero':316, 'lettre':'', 'tabb':True, 'tabn':True, 'videop': False, 'tele': True},
      'V106B':{'type':'moyen', 'personnes':33, 'aile':'V', 'numero':106, 'lettre':'B', 'tabb':False, 'tabn':True, 'videop': True, 'tele': False},#
      'V124':{'type':'moyen', 'personnes':24, 'aile':'V', 'numero':124, 'lettre':'', 'tabb':True, 'tabn':True, 'videop': False, 'tele': True},#
      'V106A':{'type':'grand', 'personnes':64, 'aile':'V', 'numero':106, 'lettre':'A', 'tabb':False, 'tabn':True, 'videop': True, 'tele': False},#
